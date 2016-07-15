@@ -12,4 +12,4 @@ On top of this, I also wanted to use this site as a more creative outlet for my 
 
 With this intention, I am neither an exceptional artist or a dignified maker but I plan to earn both of these titles.    
 
-> 🍾🍾🍾.
+> 🍾🍾🍾
