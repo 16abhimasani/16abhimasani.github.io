@@ -1,15 +1,15 @@
 # Site settings
-title: "Scott de Jonge"
-page_title: "Scott de Jonge - UI/UX designer & Web Developer Brisbane"
-email: dejonge.scott@gmail.com
-description: "Scott de Jonge is a UI/UX designer & Web developer that designs and builds websites for humans at bigfish.tv."
+title: "Ash Bhimasani"
+page_title: "Ash Bhimasani - Artist & Maker"
+email: 16abhimasani@gmail.com
+description: "Ash Bhimasani is a multimedia artist and maker from Philadelphia."
 
 # Server
 baseurl: ""
 destination: _site
 host: 0.0.0.0
 port: 4001
-url: http://scottdejonge.com
+url: http://ash.bhimasani.com
 encoding: UTF-8
 
 # Excludes
@@ -27,4 +27,4 @@ kramdown:
   syntax_highlighter: rouge
 
 # Repo
-repo: https://github.com/scottdejonge/scottdejonge
+repo: https://github.com/16abhimasani/16abhimasani.github.io
