@@ -28,6 +28,20 @@ This is collection of some of my pictures.
 
 <figure class="hero">
 	<div class="media media-3-2">
+		<img src="/assets/photos/IMG_8456.jpg">
+	</div>
+	<figcaption>2016 - Wicklow Mountains National Park IR - Canon EOS 7D</figcaption>
+</figure>
+
+<figure class="hero">
+	<div class="media media">
+		<img src="/assets/photos/IMG_8386.jpg">
+	</div>
+	<figcaption>2016 - Giant's Causeway Northern Ireland - Canon EOS 7D</figcaption>
+</figure>
+
+<figure class="hero">
+	<div class="media media-3-2">
 		<img src="/assets/photos/IMG_8478.jpg">
 	</div>
 	<figcaption>2016 - Dublin IR - Canon EOS 7D</figcaption>
