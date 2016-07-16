@@ -34,7 +34,7 @@ This is collection of some of my pictures.
 </figure>
 
 <figure class="hero">
-	<div class="media media">
+	<div class="media media-1">
 		<img src="/assets/photos/IMG_8386.jpg">
 	</div>
 	<figcaption>2016 - Giant's Causeway Northern Ireland - Canon EOS 7D</figcaption>
