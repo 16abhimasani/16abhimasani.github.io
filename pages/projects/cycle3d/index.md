@@ -7,13 +7,13 @@ title: Cycle3D
 
 Cycle is an open source 3D printing project focused on creating a new type of 3D printer that can essentially recycle its own prints and utilize other recyclable plastics like PET or HDPE which is most often found in plastic containers. The project originally started as simple machine that can create filament out of ground up plastic but has since evolved into an "all-in-one" type of printer that can directly intake granular plastic instead of filament. Because of this concept, the two major components of the Cycle printer is the Grinder and Extruder with each partaking in the recycling process.
 
-## Grinder
+## Grinder Diagram
 
 <img src="/assets/images/cycle3d/grinder.svg" width="100%" height="auto">
 
 The Grinder works by first crushing and tearing plastic with the primary rollers. Next the shards are dropped into the secondary shredders where the high speed and sharp blades cut the plastic to small pieces. The filter below, fitted with 2 mm holes, allows oversized pieces to be kicked back up for more shredding. Overall the grinding part of Cycle printer is the most mechanically difficult because proper extrusion requires uniform piece size and shape. The filter part of this design minimizes bad pieces but overall the mechanical aspect of this design is still a work in progress.
 
-## Extruder
+## Extruder Diagram
 
 <img src="/assets/images/cycle3d/extruder.svg" width="100%" height="auto">
 

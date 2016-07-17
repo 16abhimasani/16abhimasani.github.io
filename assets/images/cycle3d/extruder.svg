@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1950 1950" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-    <g id="Layer1" transform="matrix(1,0,0,1,-25,-25)">
-        <g transform="matrix(0.975,0,0,0.975,25,25)">
+<svg width="100%" height="100%" viewBox="0 0 1950 1810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Layer1" transform="matrix(1,0,0,1,-25,-95)">
+        <g transform="matrix(0.975,0,0,0.905,24.6375,95)">
             <rect x="0" y="0" width="2000" height="2000" style="fill:rgb(255,120,155);"/>
         </g>
-        <g transform="matrix(1,0,0,1,4,2.27374e-13)">
+        <g transform="matrix(1,0,0,1,-12,54.5)">
             <g transform="matrix(1,0,0,1,-31.0969,0)">
                 <g>
                     <g transform="matrix(1.09003,0,0,1.62554,514.97,-621.089)">
@@ -297,7 +297,7 @@
                             </g>
                         </g>
                     </g>
-                    <g transform="matrix(0.235813,0,0,0.862937,790.922,260.21)">
+                    <g transform="matrix(0.235813,0,0,0.513578,790.922,804.511)">
                         <rect x="1000" y="1558" width="37" height="312" style="fill:rgb(3,205,199);stroke-width:7.45px;stroke:rgb(3,205,199);"/>
                     </g>
                 </g>
