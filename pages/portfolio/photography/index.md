@@ -16,6 +16,11 @@ This is collection of some of my pictures.
 </figure>
 
 <figure class="hero">
+	<img src="/assets/images/photos/IMG_8563.jpg" width="100%" height="auto">
+	<figcaption>2016 - Downingtown PA - Canon EOS 7D</figcaption>
+</figure>
+
+<figure class="hero">
 	<img src="/assets/images/photos/IMG_8114.jpg" width="100%" height="auto">
 	<figcaption>2016 - Downingtown PA - Canon EOS 7D</figcaption>
 </figure>
