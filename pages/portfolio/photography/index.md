@@ -6,6 +6,11 @@ title: Photography
 This is collection of some of my pictures.
 
 <figure class="hero">
+	<img src="/assets/images/photos/IMG_8880.jpg" width="100%" height="auto">
+	<figcaption>2016 - Atlanta GA - Canon EOS 7D</figcaption>
+</figure>
+
+<figure class="hero">
 	<img src="/assets/images/photos/IMG_8478.jpg" width="100%" height="auto">
 	<figcaption>2016 - Dublin IR - Canon EOS 7D</figcaption>
 </figure>
