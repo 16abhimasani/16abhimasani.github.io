@@ -5,8 +5,8 @@ $serif: 'Merriweather', 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 $sans-serif: 'Merriweather Sans', 'Open Sans', 'Helvetica', Arial, Verdana;
 $mono: 'PT Mono', 'Lucida Console', Monaco, monospace;
 
-$break-medium: 640px;
-$break-small: 640px;
+$break-medium: 100%;
+$break-small: 100%;
 
 *,
 *::before,
@@ -163,7 +163,7 @@ main {
   font-weight: 300;
   display: none;
   width: 100%;
-  max-width: 640px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0;
   border-radius: 5px;
