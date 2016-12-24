@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "First Few Weeks at Georgia Tech"
+title: "🐝 First Few Weeks at Georgia Tech 🐝"
 date: "2016-09-13 07:56:00 +1000"
 author: ashbhimasani
 categories: []

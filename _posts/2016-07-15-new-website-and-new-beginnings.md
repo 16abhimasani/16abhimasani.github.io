@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "New Website & New Beginnings"
+title: "🎉 New Website & New Beginnings 🎉"
 date: "2016-07-15 13:36:00 +1000"
 author: ashbhimasani
 categories: []
