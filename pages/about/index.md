@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🐻 About Me 🐻
+title: About Me
 ---
 
 "Two months into Freshman year and you already have a job at a startup!?!" 'Yeah, that's Georgia Tech for you.'
