@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "name": "Kashav Madan",
+    "location": "Toronto, ON, Canada",
+    "age": 19,
+    "occupation": [
+      "student",
+      "developer",
+      "entrepreneur"
+    ]
+  },
+  "education": {
+    "school": "University of Toronto",
+    "major": "Computer Science",
+    "expected_graduation": 2019
+  },
+  "projects": [
+    {
+      "name": "nba.js",
+      "description": "Node.js library to interface with current and historical NBA stats, scores, and data.",
+      "link": [
+        "https://npmjs.com/package/nba.js",
+        "https://github.com/kshvmdn/nba.js"
+      ],
+      "technology": [
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Show Me a Movie",
+      "description": "Command line utility that leverages the IMDb API to stream movies via The Pirate Bay.",
+      "link": [
+        "https://npmjs.com/package/show-me-a-movie",
+        "https://github.com/kshvmdn/show-me-a-movie"
+      ],
+      "technology": [
+        "Node.js",
+        "Python"
+      ]
+    },
+    {
+      "name": "Brampton Transit API",
+      "description": "Scraper and REST API to interface with live Brampton Transit bus times.",
+      "link": [
+        "http://transit.kshvmdn.com",
+        "https://github.com/kshvmdn/next-ride-api"
+      ],
+      "technology": [
+        "Python",
+        "Node.js",
+        "RethinkDB"
+      ]
+    },
+    {
+      "name": "SEEN it",
+      "description": "Web application to stream videos via /r/videos, a replacement for the deprecated reddit.tv.",
+      "link": "https://github.com/kshvmdn/seen-it",
+      "technology": [
+        "React"
+      ]
+    },
+    {
+      "name": "Find Me a Job",
+      "description": "Web platform that matches a job seeker with their \"perfect\" company by analyzing the technical skills and experience on their résumé.",
+      "link": "https://github.com/kshvmdn/find-me-a-job",
+      "technology": [
+        "Python (Flask)",
+        "MongoDB",
+        "OpenCV"
+      ]
+    },
+    {
+      "name": "Tweetbot",
+      "description": "Twitter bot to automatically reply to mentions that contain a specified phrase.",
+      "link": "https://github.com/kshvmdn/tweetbot",
+      "technology": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Border Times",
+      "description": "REST API and scraper for live Canadian border wait times.",
+      "link": "https://github.com/kshvmdn/border-times",
+      "technology": [
+        "Python (Flask)"
+      ]
+    },
+    {
+      "name": "Bikeshare",
+      "description": "A Node.js wrapper for the Toronto Bikeshare API (real-time bike availability and locations).",
+      "link": [
+        "https://npmjs.com/package/bikeshare",
+        "https://github.com/kshvmdn/bikeshare"
+      ],
+      "technology": [
+        "Node.js"
+      ]
+    },
+    {
+      "name": "cobalt-uoft.py",
+      "description": "A Python wrapper to interface with Cobalt, University of Toronto open data APIs and datasets.",
+      "link": [
+        "https://pypi.python.org/pypi/cobaltuoft",
+        "https://github.com/kshvmdn/cobalt-uoft-python"
+      ],
+      "technology": [
+        "Python"
+      ]
+    },
+    {
+      "name": "uoft-coursefinder",
+      "description": "A Node.js library and CLI for interfacing with Course Finder, UofT's course index.",
+      "link": [
+        "https://npmjs.com/package/coursefinder",
+        "https://github.com/kshvmdn/uoft-coursefinder"
+      ],
+      "technology": [
+        "Node.js"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "UofT Entrepreneurship Hatchery",
+      "role": "Web Developer",
+      "description": null,
+      "start": "September 2016",
+      "end": null,
+      "location": "Toronto"
+    },
+    {
+      "name": "Communitech",
+      "role": "Campus Ambassador",
+      "description": null,
+      "start": "August 2016",
+      "end": null,
+      "location": "Waterloo / Toronto"
+    },
+    {
+      "name": "Chapsule",
+      "role": "Co-Founder, Lead Developer",
+      "description": "Manage and contribute to core technical projects, including RESTful API and React Native mobile applications.",
+      "start": "February 2015",
+      "end": null,
+      "location": "Greater Toronto Area"
+    },
+    {
+      "name": "Ontario Public Service",
+      "role": "Junior Web Developer",
+      "description": "Developed software for enterprise-wide web-based Intranet platform, serving over 35 000 users daily.",
+      "start": "May 2016",
+      "end": "September 2016",
+      "location": "Toronto"
+    },
+    {
+      "name": "App Mastery",
+      "role": "Software Developer",
+      "description": "Built native Smart TV applications for audio / video streaming.",
+      "start": "May 2016",
+      "end": "September 2016",
+      "location": "Toronto"
+    },
+    {
+      "name": "Empower Youth Vision",
+      "role": "Lead Developer",
+      "description": "Redesigned and developed website, with focus on content scaling and ease of use.",
+      "start": "May 2015",
+      "end": "November 2015",
+      "location": "Greater Toronto Area"
+    }
+  ],
+  "resume": "./assets/docs/resume.pdf",
+  "links": {
+    "github": "https://github.com/kshvmdn",
+    "linkedin": "https://linkedin.com/in/kshvmdn",
+    "twitter": "https://twitter.com/kshvmdn",
+    "medium": "https://medium.com/@kshvmdn"
+  }
+}
