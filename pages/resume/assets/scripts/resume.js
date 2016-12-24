@@ -82,7 +82,6 @@ function prettyPrint(obj) {
 function loadConsole() {
   fetch('./assets/docs/kshvmdn.json', function(err, res) {
     if (err || !res) {
-      document.querySelector('.preload').style.display = 'block';
       document.querySelector('.terminal').style.display = 'none';
       return false;
     }
@@ -95,22 +94,7 @@ function loadConsole() {
     }
 
     document.querySelector('.terminal').style.display = 'block';
-
-    document.querySelector('.close').addEventListener('click', hideConsole, false);
-    document.querySelector('.maximize').addEventListener('click', toggleConsole, false);
   });
-}
-
-function hideConsole() {
-  var isMaximized = document.querySelector('.terminal').style.maxWidth === '100vw';
-  var isShown = document.querySelector('.terminal').style.display === 'block';
-
-  if (isMaximized) {
-    toggleConsole();
-  }
-
-  document.querySelector('.preload').style.display = isShown ? 'block' : 'none';
-  document.querySelector('.terminal').style.display = isShown ? 'none' : 'block';
 }
 
 function toggleConsole() {
