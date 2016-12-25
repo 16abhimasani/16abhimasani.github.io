@@ -11,7 +11,10 @@ categories:
 ---
 <!DOCTYPE html>
 <html lang="en">
-	{% include head.html %}
+	<head>
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700|Merriweather+Sans:300,400|PT+Mono">
+		<link rel="stylesheet" type="text/css" href="{{ './assets/styles/resume.css' | prepend: site.baseurl }}">
+	</head>
   <body>
 		<div class="container">
 			<main>
@@ -34,6 +37,6 @@ categories:
 				</div>
 			</main>
 		</div>
-		{% include foot.html %}
+		<script type="text/javascript" src="./assets/scripts/resume.js"></script>
 	</body>
 </html>
