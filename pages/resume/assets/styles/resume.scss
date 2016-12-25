@@ -62,11 +62,6 @@ a {
   }
 }
 
-.container-terminal {
-  padding: 30px 0px;
-  color: #484141;
-}
-
 main {
   display: block;
   padding: 30px 0;
@@ -118,6 +113,12 @@ main {
 
     &.maximize {
       background: radial-gradient(circle, #00cc53, #00d958);
+    }
+
+    &.title {
+      font: inherit;
+      text-align: center;
+      content: "#!/bin/bash/resume.sh";
     }
 
     @media screen and (max-width: $break-medium) {
