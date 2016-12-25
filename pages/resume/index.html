@@ -15,27 +15,25 @@ categories:
 	<link rel="stylesheet" type="text/css" href="{{ './assets/styles/resume.css' | prepend: site.baseurl }}">
   <body>
 		<div class="container">
-			<div class="container-terminal">
-				<main>
-					<div class="terminal pulse">
-						<div class="taskbar">
-							<a href="javascript:;" class="close"></a>
-							<a href="javascript:;" class="minimize"></a>
-							<a href="javascript:;" class="maximize"></a>
-						</div>
-						<div class="code">
-							{% for category in page.categories %}
-							<div class="block" id="{{ category.name }}-block">
-								<div class="input">resume.{% if category.slug %}{{ category.slug }}{% else %}{{ category.name }}{% endif %}</div>
-								<div class="result">
-									<pre class="json"><code id="{{ category.name }}-json"></code></pre>
-								</div>
-							</div>
-							{% endfor %}
-						</div>
+			<main>
+				<div class="terminal pulse">
+					<div class="taskbar">
+						<a href="javascript:;" class="close"></a>
+						<a href="javascript:;" class="minimize"></a>
+						<a href="javascript:;" class="maximize"></a>
 					</div>
-				</main>
-			</div>
+					<div class="code">
+						{% for category in page.categories %}
+						<div class="block" id="{{ category.name }}-block">
+							<div class="input">resume.{% if category.slug %}{{ category.slug }}{% else %}{{ category.name }}{% endif %}</div>
+							<div class="result">
+								<pre class="json"><code id="{{ category.name }}-json"></code></pre>
+							</div>
+						</div>
+						{% endfor %}
+					</div>
+				</div>
+			</main>
 		</div>
 		<script type="text/javascript" src="./assets/scripts/resume.js"></script>
 	</body>
