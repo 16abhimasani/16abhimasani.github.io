@@ -7,14 +7,14 @@
       "student",
       "developer",
       "maker",
-      "entrepreneur"
-      "artist",
+      "entrepreneur",
+      "artist"
     ]
   },
   "education": {
     "school": "Georgia Institute of Technology",
     "major": "Computer Science",
-    "expected_graduation": May 2020
+    "expected_graduation": 2020
   },
   "projects": [
     {
