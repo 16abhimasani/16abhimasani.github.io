@@ -1,18 +1,20 @@
 {
-  "meta": {
-    "name": "Kashav Madan",
-    "location": "Toronto, ON, Canada",
-    "age": 19,
+  "bio": {
+    "name": "Ash Bhimasani",
+    "location": "Atlanta, GA",
+    "age": 18,
     "occupation": [
       "student",
       "developer",
+      "maker",
       "entrepreneur"
+      "artist",
     ]
   },
   "education": {
-    "school": "University of Toronto",
+    "school": "Georgia Institute of Technology",
     "major": "Computer Science",
-    "expected_graduation": 2019
+    "expected_graduation": May 2020
   },
   "projects": [
     {
@@ -171,9 +173,9 @@
   ],
   "resume": "./assets/docs/resume.pdf",
   "links": {
-    "github": "https://github.com/kshvmdn",
-    "linkedin": "https://linkedin.com/in/kshvmdn",
-    "twitter": "https://twitter.com/kshvmdn",
-    "medium": "https://medium.com/@kshvmdn"
+    "github": "https://github.com/16abhimasani",
+    "facebook": "https://www.facebook.com/Ash.Bhimasani",
+    "instagram": "https://www.instagram.com/ash_bhimasani/",
+    "email": "mailto:16abhimasani@gmail.com"
   }
 }
