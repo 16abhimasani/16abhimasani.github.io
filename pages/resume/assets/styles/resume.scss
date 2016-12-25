@@ -115,9 +115,10 @@ main {
       background: radial-gradient(circle, #00cc53, #00d958);
     }
 
-    &.title {
+    &.title:before {
       font: inherit;
-      text-align: center;
+      color: black;
+      float: right;
       content: "#!/bin/bash/resume.sh";
     }
 
