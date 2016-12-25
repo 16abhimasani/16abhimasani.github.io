@@ -80,7 +80,7 @@ function prettyPrint(obj) {
 }
 
 function loadConsole() {
-  fetch('./assets/docs/resume.json', function(err, res) {
+  fetch('../assets/docs/resume.json', function(err, res) {
     if (err || !res) {
       document.querySelector('.terminal').style.display = 'none';
       return false;
