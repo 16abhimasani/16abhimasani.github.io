@@ -80,13 +80,13 @@ function prettyPrint(obj) {
 }
 
 function loadConsole() {
-  fetch('./assets/docs/kshvmdn.json', function(err, res) {
+  fetch('./assets/docs/resume.json', function(err, res) {
     if (err || !res) {
       document.querySelector('.terminal').style.display = 'none';
       return false;
     }
 
-    window.kshvmdn = res;
+    window.resume = res;
 
     for (var k in res) {
       var $el = document.getElementById(k + '-json');
