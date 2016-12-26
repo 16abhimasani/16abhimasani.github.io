@@ -118,9 +118,18 @@ main {
     &.title:before {
       font: inherit;
       color: black;
-      margin: 0 auto;
-      padding-top: 5px;
+      @include center;
       content: "#!/bin/bash/resume.sh";
+    }
+
+    @mixin center($max-width, $height) {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        height: $height;
+        width: $max-width;
+        margin-left: - $width / 2;
+        margin-top: - $height / 2;
     }
 
     @media screen and (max-width: $break-medium) {
