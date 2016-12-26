@@ -25,7 +25,7 @@ categories:
 					</div>
 					<div class="code">
 						{% for category in page.categories %}
-						<div class="block" id="{{ category.name }}-block">
+						<div class="block-terminal" id="{{ category.name }}-block">
 							<div class="input">resume.{% if category.slug %}{{ category.slug }}{% else %}{{ category.name }}{% endif %}</div>
 							<div class="result">
 								<pre class="json"><code id="{{ category.name }}-json"></code></pre>
