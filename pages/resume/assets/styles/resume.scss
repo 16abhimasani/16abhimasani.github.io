@@ -97,28 +97,34 @@ main {
   padding: 4px 10px;
 
   a {
-    border-radius: 50%;
-    width: 12px;
-    height: 12px;
     display: inline-block;
 
     &.close {
       background: radial-gradient(circle, #ff6056, #ff6059);
+      border-radius: 50%;
+      width: 12px;
+      height: 12px;
     }
 
     &.minimize {
       background: radial-gradient(circle, #fec443, #ffbe42);
+      border-radius: 50%;
+      width: 12px;
+      height: 12px;
     }
 
     &.maximize {
       background: radial-gradient(circle, #00cc53, #00d958);
+      border-radius: 50%;
+      width: 12px;
+      height: 12px;
     }
 
     &.title:before {
       font: inherit;
       color: black;
       padding-top: 5px;
-      margin-left: 295px;
+      margin: 0 auto;
       content: "#!/bin/bash/resume.sh";
     }
 
