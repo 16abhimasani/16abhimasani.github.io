@@ -118,7 +118,8 @@ main {
       font: inherit;
       color: black;
       padding-top: 5px;
-      margin: auto;
+      margin: 0 auto;
+      content: "#!/bin/bash/resume.sh";
     }
 
     @media screen and (max-width: $break-medium) {
