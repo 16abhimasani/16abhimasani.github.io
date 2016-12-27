@@ -76,7 +76,7 @@ main {
   padding: 0;
   border-radius: 5px;
   background-color: #E1E1E1;
-  font-size: 0.9em;
+  font-size: 1.0em;
 
   a {
     color: #E1E1E1;
@@ -118,7 +118,8 @@ main {
       font: inherit;
       color: black;
       padding-top: 5px;
-      margin-left: 305px;
+      margin: auto;
+      width: 50%;
       content: "#!/bin/bash/resume.sh";
     }
 
