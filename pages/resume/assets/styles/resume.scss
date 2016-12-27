@@ -95,7 +95,6 @@ main {
 .taskbar {
   margin: 0;
   padding: 4px 10px;
-  text-align: center;
 
   a {
     border-radius: 50%;
@@ -105,17 +104,14 @@ main {
 
     &.close {
       background: radial-gradient(circle, #ff6056, #ff6059);
-      text-align: none;
     }
 
     &.minimize {
       background: radial-gradient(circle, #fec443, #ffbe42);
-      text-align: none;
     }
 
     &.maximize {
       background: radial-gradient(circle, #00cc53, #00d958);
-      text-align: none;
     }
 
     &.title:before {
