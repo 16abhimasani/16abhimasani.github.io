@@ -118,7 +118,8 @@ main {
       font: inherit;
       color: black;
       padding-top: 5px;
-      margin-left: 200px;
+      display: flex;
+    	align-items: center;
       content: "#!/bin/bash/resume.sh";
     }
 
