@@ -21,6 +21,6 @@ As for my current situation, I couldn't be in a better place. The opportunity th
 
 - Biryani
 - Brazilian Jiu-Jitsu
-- ```html #ff9999 ```
+- `#ff9999`
 - Nicolas Winding Refn
-- 💵💵💵
+- 💵💵💵💵💵
