@@ -18,6 +18,23 @@
   },
   "projects": [
     {
+      "name": "Freight Tendering Optimization Software",
+      "description": "Building a Carrier Selection Network for increased profits and efficient management.",
+      "technology": [
+        "Ethereum (Blockchain)",
+        "TBD"
+      ]
+    },
+    {
+      "name": "Penny Stock Search & Trade Algorithm",
+      "description": "Lightweight algorithmic analysis of micro-cap stocks for trade assistance.",
+      "technology": [
+        "Python",
+        "Pandas API",
+        "Quantopian"
+      ]
+    },
+    {
       "name": "Cycle3D",
       "description": "Open source 3D printing project to recycle wasted plastic.",
       "link": [
