@@ -12,4 +12,4 @@ I think the environment here also fits my style better. Back home I would go to 
 
 Overall, I'm extremely excited for my first year at Georgia Tech and cannot even imagine where I'll be by the summer of 2017.    
 
-> 🐑💎🍑
+> 🔥💎🍑
