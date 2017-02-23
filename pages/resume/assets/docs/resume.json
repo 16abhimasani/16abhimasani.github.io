@@ -22,8 +22,10 @@
       "description": "Mobile application that allows users to create location pinned posts and interact with them.",
       "status": "In-progress",
       "technology": [
-        "Ethereum (Blockchain)",
-        "TBD"
+        "Swift - iOS",
+        "Google Places API",
+        "HDAugmentedReality",
+        "Firebase"
       ]
     },
     {
