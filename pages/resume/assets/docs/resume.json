@@ -18,8 +18,8 @@
   },
   "projects": [
     {
-      "name": "Freight Tendering Optimization Software",
-      "description": "Building a Carrier Selection Network for increased profits and efficient management.",
+      "name": "Augmented Reality Social Media",
+      "description": "Mobile application that allows users to create location pinned posts and interact with them.",
       "status": "In-progress",
       "technology": [
         "Ethereum (Blockchain)",
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "name": "Penny Stock Search & Trade Algorithm",
-      "description": "Lightweight algorithmic analysis of micro-cap stocks for trade assistance.",
+      "name": "Stock Screener & Algorithmic Trader",
+      "description": "Lightweight algorithmic analysis for trade assistance + Quantopian/Robinhood integrated automatic trader.",
       "status": "In-progress",
       "technology": [
         "Python",
