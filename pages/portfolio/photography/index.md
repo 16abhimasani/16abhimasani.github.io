@@ -44,3 +44,6 @@ This is collection of some of my pictures.
 	<img src="./photos/IMG_8358.jpg" width="100%" height="auto">
 	<figcaption>2016 - Giant's Causeway Northern Ireland - Canon EOS 7D</figcaption>
 </figure>
+
+
+<script src="./node_modules/lightbox2/dist/js/lightbox-plus-jquery.js"> /n </script>
