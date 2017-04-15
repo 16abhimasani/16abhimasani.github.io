@@ -6,7 +6,7 @@ title: Photography
 This is collection of some of my pictures.
 
 <figure class="hero">
-	<img src="./photos/IMG_8880.jpg" width="100%" height="auto">
+	<img src="./photos/IMG_8880.jpg" width="100%" height="auto" data-lightbox="8880">
 	<figcaption>2016 - Atlanta GA - Canon EOS 7D</figcaption>
 </figure>
 
