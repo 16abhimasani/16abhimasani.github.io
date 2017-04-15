@@ -13,7 +13,8 @@
     "url": "https://github.com/16abhimasani/16abhimasani.github.io/issues"
   },
   "dependencies": {
-    "bigfishtv-turret": "^3.2.0"
+    "bigfishtv-turret": "^3.2.0",
+    "lightbox2": "^2.9.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.1",
