@@ -9,13 +9,13 @@ Cycle is an open source 3D printing project focused on creating a new type of 3D
 
 ## Grinder Diagram
 
-<img src="./graphics/grinder.svg" width="100%" height="auto">
+<a href="./graphics/grinder.svg" data-fluidbox><img src="./graphics/grinder.svg" alt="" width="100%" height="auto"/></a>
 
 The Grinder works by first crushing and tearing plastic with the primary rollers. Next the shards are dropped into the secondary shredders where the high speed and sharp blades cut the plastic to small pieces. The filter below, fitted with 2 mm holes, allows oversized pieces to be kicked back up for more shredding. Overall the grinding part of Cycle printer is the most mechanically difficult because proper extrusion requires uniform piece size and shape. The filter part of this design minimizes bad pieces but overall the mechanical aspect of this design is still a work in progress.
 
 ## Extruder Diagram
 
-<img src="./graphics/extruder.svg" width="100%" height="auto">
+<a href="./graphics/extruder.svg" data-fluidbox><img src="./graphics/extruder.svg" alt="" width="100%" height="auto"/></a>
 
 The Extruder works by intaking granulated plastic and passing it down the chamber via an Auger bit. This chamber is specifically designed to have a longer melt zone for efficient flow rate and retraction. The Auger bit allows the granular plastic to be carried down by the stepper motors in the extruder head. This method also allows simple retraction identical to normal extruder by simply reversing the motor to pull material back up.
 
