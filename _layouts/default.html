@@ -11,11 +11,7 @@
 
 		{% include footer.html %}
 
-		<!-- {% for js in page.jsarr %} -->
-		     <script type="text/javascript">
-		     {% include {{ js }} %}
-		     </script>
-		 <!-- {% endfor %} -->
+		{% include {{ js }} %}
 
 	</body>
 </html>
