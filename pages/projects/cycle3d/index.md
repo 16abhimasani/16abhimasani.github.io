@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Cycle3D
 jsarr:
 - .../fluidbox/js/jquery.fluidbox.min.js
