@@ -4,7 +4,11 @@ layout: default
 
 <main class="section" aria-labelledby="page-title">
 	<div class="container">
-		<script type="text/javascript"> {% include {{ js }} %} </script>
+		{% for js in page.jsarr %}
+     		<script type="text/javascript">
+     			{% include {{ js }} %}
+     		</script>
+ 		{% endfor %}
 		<h1 id="page-title" class="article-title">{{ page.title }}</h1>
 		{{ content }}
 	</div>
