@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cycle3D
-jsarr:
+customjs:
 - .../fluidbox/js/jquery.fluidbox.min.js
 ---
 
