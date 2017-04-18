@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Cycle3D
+jsarr:
+- .../fluidbox/js/jquery.fluidbox.min.js
 ---
 
 <img src="./graphics/banner.png" width="100%" height="auto">

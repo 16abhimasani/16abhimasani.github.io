@@ -34,4 +34,21 @@
 	<!-- RSS -->
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+	<!-- Load jQuery -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+	<!-- Load plugins -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+	<script type="text/javascript" src="./fluidbox/js/jquery.fluidbox.min.js"></script>
+
+	<!-- JS Functions -->
+	<script>
+	    $(function () {
+
+	        // You can use any kind of selectors for jQuery Fluidbox
+	        $("a[data-fluidbox]").fluidbox();
+
+		});
+	</script>
+
 </head>
