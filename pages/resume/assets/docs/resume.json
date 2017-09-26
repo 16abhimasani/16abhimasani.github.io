@@ -2,13 +2,12 @@
   "bio": {
     "name": "Ash Bhimasani",
     "location": "Atlanta, GA",
-    "age": 18,
+    "age": 19,
     "occupation": [
       "student",
       "developer",
-      "maker",
-      "entrepreneur",
-      "artist"
+      "designer",
+      "entrepreneur"
     ]
   },
   "education": {
@@ -80,6 +79,7 @@
   "download": "./assets/docs/resume.pdf",
   "links": {
     "github": "https://github.com/16abhimasani",
+    "behance": "https://www.behance.net/16abhimasa5794",
     "facebook": "https://www.facebook.com/Ash.Bhimasani",
     "instagram": "https://www.instagram.com/ash_bhimasani/",
     "email": "16abhimasani@gmail.com"
