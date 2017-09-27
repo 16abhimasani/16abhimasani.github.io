@@ -17,30 +17,31 @@
   },
   "projects": [
     {
-      "name": "Augmented Reality Social Media",
-      "description": "Mobile application that allows users to create location pinned posts and interact with them.",
+      "name": "Selene",
+      "description": "Cryptocurrency Portfolio Management Tool",
       "status": "In-progress",
       "technology": [
         "Swift - iOS",
-        "Google Places API",
-        "HDAugmentedReality",
+        "CryptoCompare API",
+        "Bittrex API",
+        "Gemini API",
+        "Vue.js",
         "Firebase"
       ]
     },
     {
-      "name": "Stock Screener & Algorithmic Trader",
-      "description": "Lightweight algorithmic analysis for trade assistance + Quantopian/Robinhood integrated automatic trader.",
+      "name": "Cryptocurrency Algorithmic Trader",
+      "description": "Lightweight Python bots to execute high speed trades based on currency specific patterns.",
       "status": "In-progress",
       "technology": [
         "Python",
-        "Pandas API",
-        "Quantopian Pipeline API"
+        "Bittrex API"
       ]
     },
     {
       "name": "Cycle3D",
       "description": "Open source 3D printing project to recycle wasted plastic.",
-      "status": "On-hold",
+      "status": "Finished",
       "link": [
         "http://ash.bhimasani.com/pages/projects/cycle3d/",
         "https://github.com/16abhimasani/Cycle3D"
@@ -48,17 +49,26 @@
       "technology": [
         "SolidWorks",
         "Repetier",
+        "Cura",
         "Arduino"
       ]
     }
   ],
   "work": [
     {
+      "name": "Cowboy Killers",
+      "role": "Developer/Designer",
+      "description": "Co-founded multifaceted brand for freelance work and product releases",
+      "start": "June 2017",
+      "end": null,
+      "location": "Atlanta"
+    },
+    {
       "name": "Graph House",
       "role": "Creative Director",
       "description": "Creative services and marketing solutions for Atlanta area.",
       "start": "October 2016",
-      "end": null,
+      "end": "May 2017",
       "location": "Atlanta"
     },
     {

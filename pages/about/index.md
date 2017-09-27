@@ -5,7 +5,7 @@ title: 👋🏼 I'm Ash!
 
 <img src="baby.JPG" width="100%" height="auto">
 
-I'm a Freshman studying Computer Science at Georgia Tech with a passion for learning, entrepreneurship, art, and creating. I was raised outside of Philadelphia in a small village known as [Downingtown](https://en.wikipedia.org/wiki/Downingtown,_Pennsylvania) 🏡 where I grew up like any other kid: taking apart vacuum cleaners, fixing my neighbor's snowblower engine, and taking home broken computers from school. This kind of curiosity and love of learning have been something I've had for life.
+I'm a Computer Science student at Georgia Tech with a passion for learning, entrepreneurship, art, and creating. I was raised outside of Philadelphia in a small village known as [Downingtown](https://en.wikipedia.org/wiki/Downingtown,_Pennsylvania) 🏡 where I grew up like any other kid: taking apart vacuum cleaners, fixing my neighbor's snowblower engine, and taking home broken computers from school. This kind of curiosity and love of learning have been something I've had for life.
 
 Interestingly enough, I didn't write my first line of code until going to the PennApps 2015 Hackathon. I remember walking into the stadium and being surrounded by brilliant kids who could understood data structures and DOM manipulation as well as I understood how a Volkswagen W8 worked. It was this sort of attraction with an area that I never really explored that drove me to major in Computer Science and so far I love it!
 
@@ -16,6 +16,8 @@ Before this however, my background lied primarily in computers and 3D printing. 
 I definitely was always fascinated with art and more specifically film growing up but I became way more interested towards the end of my senior year as the seriousness of college admissions faded and the opportunity to immerse myself emerged. The experimental/abstract nature of my photos was more of an accidental style that I developed while playing around with colors and anything I could find in the house. My goal is to combine this desire to create experimental media with my tech-focused education in a way that is organic as well as useful. Whether it be through [Graph House](http://ash.bhimasani.com/pages/work/graph-house/) or directing my own projects in Atlanta, I'm open to whatever comes my way.
 
 As for my current situation, I couldn't be in a better place. The opportunity that Georgia Tech and Atlanta provides is something that motivates me to get out of bed everyday and work towards something whether it be learning how to write stock algorithms or simply reading extensively about Blockchain technology in the financial sector. My motivation & ambition is what keeps me alive and I'm confident that the future looks bright.
+
+~ 12/28/16
 
 ### Quick 💖 List:
 
