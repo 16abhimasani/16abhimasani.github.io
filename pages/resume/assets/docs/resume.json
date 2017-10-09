@@ -56,9 +56,17 @@
   ],
   "work": [
     {
+      "name": "Appsketiers",
+      "role": "Full-Stack Developer & UI/UX Designer",
+      "description": "Working with freelance team to provide UI/UX and Full-Stack development to clients.",
+      "start": "Aug 2017",
+      "end": null,
+      "location": "Atlanta"
+    },
+    {
       "name": "Cowboy Killers",
       "role": "Developer/Designer",
-      "description": "Co-founded multifaceted brand for freelance work and product releases",
+      "description": "Co-founded technology company focused around cryptocurrency.",
       "start": "June 2017",
       "end": null,
       "location": "Atlanta"
