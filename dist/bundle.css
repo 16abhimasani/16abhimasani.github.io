@@ -259,7 +259,7 @@ a {
 }
 
 a:not(.button):focus, a:not(.button):hover {
-    color: #FD87B4;
+    color: #1f7af7;
     text-decoration: underline
 }
 
@@ -446,7 +446,7 @@ blockquote cite {
     font-weight: 400;
     font-size: 2.2rem;
     color: #292e31;
-    border: solid #FD87B4;
+    border: solid #1f7af7;
     border-width: 0 0 0 .4rem
 }
 
@@ -737,9 +737,9 @@ kbd {
 }
 
 .button:not(:disabled):focus, .button:not(:disabled):hover, button:not(:disabled):focus, button:not(:disabled):hover {
-    color: #FD87B4;
+    color: #1f7af7;
     background: #fff;
-    border: 1px solid #FD87B4
+    border: 1px solid #1f7af7
 }
 
 button:disabled {
@@ -1196,7 +1196,7 @@ figcaption {
 }
 
 .header-nav a:not(.logo):focus, .header-nav a:not(.logo):hover {
-    color: #FD87B4
+    color: #1f7af7
 }
 
 .logo {
@@ -1295,11 +1295,11 @@ a.post:last-child {
 
 a.post:focus, a.post:hover {
     text-decoration: none;
-    border-color: #FD87B4
+    border-color: #1f7af7
 }
 
 a.post:focus .post-date, a.post:focus .post-summary, a.post:focus .post-title, a.post:hover .post-date, a.post:hover .post-summary, a.post:hover .post-title {
-    color: #FD87B4
+    color: #1f7af7
 }
 
 @media (min-width:640px) {
