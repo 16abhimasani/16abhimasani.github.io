@@ -16,6 +16,21 @@
     "expected_graduation": 2020
   },
   "projects": [
+   {
+     "name": "BlockFantasy",
+     "description": "Fantasy Sports staking built on Ethereum smart contracts",
+     "status": "Beta",
+     "technology": [
+       "CryptoCompare API",
+       "ESPN API",
+       "MetaMask",
+       "Vue.js",
+       "Flask",
+       "MongoDB",
+       "Node.js",
+       "Solidity"
+      ]
+    },
     {
       "name": "Selene",
       "description": "Cryptocurrency Portfolio Management Tool",
@@ -56,18 +71,18 @@
   ],
   "work": [
     {
-      "name": "Appsketiers",
-      "role": "Full-Stack Developer & UI/UX Designer",
-      "description": "Working with freelance team to provide UI/UX and Full-Stack development to clients.",
-      "start": "Aug 2017",
+      "name": "Cowboy Killers",
+      "role": "Chief Operating & Creative Officer",
+      "description": "Co-founded design and innovation studio currently building blockchain products.",
+      "start": "Jan 2018",
       "end": null,
       "location": "Atlanta"
     },
     {
-      "name": "Cowboy Killers",
-      "role": "Developer/Designer",
-      "description": "Co-founded technology company focused around cryptocurrency.",
-      "start": "June 2017",
+      "name": "Appsketiers",
+      "role": "Full-Stack Developer & UI/UX Designer",
+      "description": "Working with freelance team to provide UI/UX and Full-Stack development to clients.",
+      "start": "Aug 2017",
       "end": null,
       "location": "Atlanta"
     },
@@ -96,6 +111,7 @@
   ],
   "download": "./assets/docs/resume.pdf",
   "links": {
+    "cowboy_killers": "http://cowboykillers.io/",
     "github": "https://github.com/16abhimasani",
     "behance": "https://www.behance.net/16abhimasa5794",
     "facebook": "https://www.facebook.com/Ash.Bhimasani",

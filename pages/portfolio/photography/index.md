@@ -11,6 +11,11 @@ This is collection of some of my pictures.
 </figure>
 
 <figure class="hero">
+	<img src="./photos/roseBlood2.png" width="100%" height="auto" data-lightbox="8880">
+	<figcaption>2018 - Como Italy - Canon EOS 7D</figcaption>
+</figure>
+
+<figure class="hero">
 	<img src="./photos/IMG_8478.jpg" width="100%" height="auto">
 	<figcaption>2016 - Dublin IR - Canon EOS 7D</figcaption>
 </figure>
