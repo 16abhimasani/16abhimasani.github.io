@@ -71,7 +71,7 @@
   ],
   "work": [
     {
-      "name": "Cowboy Killers",
+      "company": "Cowboy Killers",
       "role": "Chief Operating & Creative Officer",
       "description": "Co-founded design and innovation studio currently building blockchain products.",
       "start": "Jan 2018",
@@ -79,7 +79,15 @@
       "location": "Atlanta"
     },
     {
-      "name": "Appsketiers",
+      "company": "BitPay",
+      "role": "Development Intern",
+      "description": "Working as Frontend Development Engineer.",
+      "start": "May 2018",
+      "end": "August 2018",
+      "location": "Atlanta"
+    },
+    {
+      "company": "Appsketiers",
       "role": "Full-Stack Developer & UI/UX Designer",
       "description": "Working with freelance team to provide UI/UX and Full-Stack development to clients.",
       "start": "Aug 2017",
@@ -87,7 +95,7 @@
       "location": "Atlanta"
     },
     {
-      "name": "Graph House",
+      "company": "Graph House",
       "role": "Creative Director",
       "description": "Creative services and marketing solutions for Atlanta area.",
       "start": "October 2016",
@@ -95,14 +103,14 @@
       "location": "Atlanta"
     },
     {
-      "name": "Drexel ExCITe Center",
+      "lab": "Drexel ExCITe Center",
       "role": "Internship",
       "description": "Multidisciplinary research projects under Dr. Youngmoo E. Kim.",
       "duration": "August 2015",
       "location": "Philadelphia"
     },
     {
-      "name": "Lockheed Martin Space Systems",
+      "company": "Lockheed Martin Space Systems",
       "role": "Internship",
       "description": "Shadowed Gregory J. Staszowski on the Air Force Strategic Program.",
       "duration": "July 2015",
